@@ -1,7 +1,7 @@
 <!-- Top Badge -->
 <div align="center">
   <h1>Hi, I'm Katherine 👋</h1>
-  <p>Software Development Engineer | Cloud & Data Science | AWS & ML</p>
+  <p>| AWS, GCP, Azure |  AI & ML | Software Development </p>
 
   <!-- Optional Banner -->
   <!-- <img src="./assets/banner.png" alt="Banner" width="800"> -->
@@ -10,9 +10,9 @@
 ---
 
 ## 👩‍💻 About Me
-I’m a pre-final year AI & Data Science student from **Shiv Nadar University Chennai** with a passion for building scalable cloud systems, analyzing network traffic, and developing robust machine learning models. I enjoy deep-diving into AWS internals and optimizing large datasets with efficient algorithms.
+I’m a pre-final year AI & Data Science student from **Shiv Nadar University Chennai** with a passion for building scalable cloud systems, software development, and developing robust machine learning models. I enjoy deep-diving into AWS internals and optimizing large datasets with efficient algorithms.
 
-I’m currently exploring advanced AWS networking, distributed systems, and fraud detection at scale.
+I’m currently exploring advanced AWS networking , Gen-AI models and data science. I'm also preparing for the AWS Solutions Architect certification.
 
 ---
 
@@ -42,10 +42,10 @@ I’m currently exploring advanced AWS networking, distributed systems, and frau
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java | Python | JavaScript | C++  
-**Cloud & DevOps:** AWS | Docker | Git | CI/CD  
-**ML & Data:** Pandas | NumPy | Scikit-learn | XGBoost | CatBoost  
-**Web & APIs:** React | Node.js | REST
+**Languages & DB:** Java | C++ | C | Python (libraries like NumPy, Pandas) | JavaScript | MYSQL | SQLite | NoSQL (MongoDB) 
+**Web Development & Frameworks:** HTML | CSS | JavaScript | React.js | Node.js | Express.js | Bootstrap | Tailwind CSS | REST API 
+**Cloud/DevOps:** AWS (EC2, VPC, S3, IAM, CloudWatch, Bedrock) | Microsoft Azure | GCP | CI/CD |  Docker | Kubernetes   
+**Tools:** Git | GitHub | Linux | Tableau | Vercel | Google Colab | JDK | Maven | Postman | VS Code | Jupyter | Excel 
 
 ---
 
@@ -61,11 +61,10 @@ I’m currently exploring advanced AWS networking, distributed systems, and frau
 
 ## 📫 Contact
 
-📧 **Email:** katherineolivia.r@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/katherine-olivia  
-🌐 **Portfolio:** https://katherine-olivia.netlify.app/
-📈 **LeetCode:** https://leetcode.com/u/_kathy_/
----
+- 📧 **Email:** katherineolivia.r@gmail.com
+- 🔗 **LinkedIn:** https://linkedin.com/in/katherine-olivia
+- 🌐 **Portfolio:** https://katherine-olivia.netlify.app/
+- 📈 **LeetCode:** https://leetcode.com/u/_kathy_/
 
 
 
